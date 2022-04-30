@@ -2,7 +2,7 @@
 
 Questa è la repository contenente solo i file da importare in Visual Studio in **.NET CORE**
 
-Per visualizzare il codice sorgente: https://github.com/CarusoMatteo/LibreriaBanca.git
+Per visualizzare il codice sorgente: https://github.com/CarusoMatteo/LibreriaBanca-Core.git
 
 Per vedere il progetto della banca completo: https://github.com/AliDakir05/WPFBank.git
 
