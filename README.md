@@ -2,7 +2,11 @@
 
 Questa è la repository contenente solo i file da importare in Visual Studio in **.NET CORE**
 
-Per visualizzare il codice sorgente: https://github.com/CarusoMatteo/LibreriaBanca-Core.git
+Per visualizzare il codice sorgente in .NET CORE: https://github.com/CarusoMatteo/LibreriaBanca-Core.git
+
+Per avere i file da importare in Visual Studio in .NET Framework: https://github.com/CarusoMatteo/LibreriaBanca-SoloFile.git
+
+Per visualizzare il codice sorgente in .NET Framework: https://github.com/CarusoMatteo/LibreriaBanca.git
 
 Per vedere il progetto della banca completo: https://github.com/AliDakir05/WPFBank.git
 
@@ -20,7 +24,7 @@ Nella stessa cartella va inserito il file `.xml` (Quel file aggiunge i commenti)
 
 Aprire il tab **Esplora soluzioni** (o premere `CTRL + ALT + L`).
 
-Tasto destro su **Riferimenti**, poi **Aggiungi riferimento...**
+Tasto destro su **Dipendenze**, poi **Aggiungi riferimento a progetto...**
 
 Click su **Sfoglia...** e seleziona il file `.dll`, poi premere **OK**.
 
